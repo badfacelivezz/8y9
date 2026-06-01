@@ -1,5 +1,5 @@
 local Library = {}
-Library.SetOpenButtonImage = 106718938711987
+Library.SetOpenButtonImage = 137411105935138
 local Players = game:GetService('Players')
 local RunService = game:GetService('RunService')
 local UserInputService = game:GetService('UserInputService')
